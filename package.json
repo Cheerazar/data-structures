@@ -1,0 +1,8 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cheerazar/data-structures",
+  "author": "Gunnari Auvinen (gauvinen@gmail.com)",
+  "license": "MIT"
+}
